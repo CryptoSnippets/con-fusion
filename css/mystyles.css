@@ -71,3 +71,9 @@ body{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+
+/*affix*/
+
+.affix {
+    top:100px;
+}
