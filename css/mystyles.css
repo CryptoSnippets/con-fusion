@@ -77,3 +77,8 @@ body{
 .affix {
     top:100px;
 }
+
+#loginModal > div > div {
+    /*bring buttons onto first line*/
+    margin: 0 -20px 0 -10px;
+}
